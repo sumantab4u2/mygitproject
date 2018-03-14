@@ -17,6 +17,7 @@ public class Abcd {
 		String[] asset = {"equity", "stocks", "gold", "foriegn exchange", "fixed income", "futures", "options"};
 		Collections.addAll(assetList, asset);
 		System.out.println(assetList);
+		System.out.println("sumanta");
 System.out.println("");
 
 	    }
